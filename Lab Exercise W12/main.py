@@ -7,7 +7,7 @@ print(type(x))
 input("Enter the first number : ")
 input("Enter the second number: ")
 
-#dsdsdsadsasds
+
 #Question 3
 d = {"Python":"Programming"}
 (d1,d2), = d.items()
@@ -25,4 +25,3 @@ print("The second dictionary contains:",b)
 print("The third dictionary contains:",c)
 print("The new dictionary contains:", c)
 
-#tHSSSS
